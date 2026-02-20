@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://art.pixilart.com/056b06fa01ec6ec.gif"  />
+<img align="right" height="150" src="https://raw.githubusercontent.com/antonio-pedro99/antonio-pedro99/refs/heads/main/daftpunktocat.gif"  />
 
 ###
 
